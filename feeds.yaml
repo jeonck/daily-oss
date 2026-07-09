@@ -10,8 +10,8 @@ rss:
     url: "https://opensource.com/feed"
   - name: "The New Stack"
     url: "https://thenewstack.io/feed/"
-  - name: "DEV Community - opensource"
-    url: "https://dev.to/feed/tag/opensource"
+  - name: "DEV Community - showdev"
+    url: "https://dev.to/feed/tag/showdev"
   - name: "Lobsters"
     url: "https://lobste.rs/rss"
   - name: "Product Hunt - Open Source"
@@ -47,10 +47,19 @@ hackernews:
     min_points: 80
 
 # 주의: created:>N일 조건이라 임계값이 높으면 0건이 됨 (검증: >100/7일=0건, >50/14일=수 건)
+# 쿼리별로 서로 다른 source_name이 부여되어(collect.py) 라운드로빈에서 뉴스/블로그에 밀리지 않음
 github_search:
   - query: "stars:>200"
     days_back: 7
   - query: "topic:ai stars:>100"
     days_back: 7
+  - query: "topic:llm stars:>100"
+    days_back: 7
   - query: "topic:developer-tools stars:>50"
+    days_back: 14
+  - query: "topic:devops stars:>50"
+    days_back: 14
+  - query: "topic:frontend stars:>50"
+    days_back: 14
+  - query: "topic:self-hosted stars:>50"
     days_back: 14

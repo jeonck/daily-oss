@@ -203,7 +203,9 @@ def collect_github(searches: list) -> list:
                     "title": f"{repo['full_name']} (★{repo.get('stargazers_count', 0)})",
                     "url": repo["html_url"],
                     "summary": desc[:SUMMARY_MAX_CHARS],
-                    "source_name": "GitHub Trending",
+                    # 검색 쿼리별로 다른 source_name을 부여해 interleave_by_source 라운드로빈에서
+                    # 실제 레포 결과가 뉴스/블로그 소스에 밀리지 않도록 함
+                    "source_name": f"GitHub Trending ({search['query'].split()[0]})",
                 })
                 count += 1
             log(f"  [github] {search['query']}: {count}건")
