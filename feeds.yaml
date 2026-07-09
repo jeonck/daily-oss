@@ -1,0 +1,56 @@
+# 수집 소스 정의 — context.md의 관심사(신규/급부상 오픈소스, IT 전반)에 맞춤
+# URL은 2026-07-09 기준 HTTP 200 확인됨
+
+rss:
+  - name: "GitHub Blog"
+    url: "https://github.blog/feed/"
+  - name: "Changelog"
+    url: "https://changelog.com/feed"
+  - name: "Opensource.com"
+    url: "https://opensource.com/feed"
+  - name: "The New Stack"
+    url: "https://thenewstack.io/feed/"
+  - name: "DEV Community - opensource"
+    url: "https://dev.to/feed/tag/opensource"
+  - name: "Lobsters"
+    url: "https://lobste.rs/rss"
+  - name: "Product Hunt - Open Source"
+    url: "https://www.producthunt.com/feed?category=open-source"
+  - name: "Simon Willison"
+    url: "https://simonwillison.net/atom/everything/"
+
+reddit:
+  - subreddit: "opensource"
+    listing: "top"
+    t: "day"
+    min_score: 20
+  - subreddit: "selfhosted"
+    listing: "top"
+    t: "day"
+    min_score: 30
+  - subreddit: "coolgithubprojects"
+    listing: "top"
+    t: "day"
+    min_score: 10
+  - subreddit: "programming"
+    listing: "top"
+    t: "day"
+    min_score: 50
+
+hackernews:
+  # hnrss.org 사용: https://hnrss.org/newest?q=QUERY&points=N
+  - query: "open source"
+    min_points: 60
+  - query: "show hn"
+    min_points: 40
+  - query: "released"
+    min_points: 80
+
+# 주의: created:>N일 조건이라 임계값이 높으면 0건이 됨 (검증: >100/7일=0건, >50/14일=수 건)
+github_search:
+  - query: "stars:>200"
+    days_back: 7
+  - query: "topic:ai stars:>100"
+    days_back: 7
+  - query: "topic:developer-tools stars:>50"
+    days_back: 14
