@@ -180,6 +180,21 @@ def collect_hackernews(queries: list) -> list:
     return items
 
 
+def repo_root_listing(full_name: str, headers: dict) -> str:
+    """루트 디렉토리 파일 목록을 가져온다 — 가짜 OSS(README+이미지뿐) 탐지용 신호.
+    실패해도 판정 자체를 막지 않도록 빈 문자열을 반환한다."""
+    try:
+        resp = requests.get(
+            f"https://api.github.com/repos/{full_name}/contents/",
+            headers=headers, timeout=10,
+        )
+        resp.raise_for_status()
+        names = [entry["name"] for entry in resp.json() if isinstance(entry, dict)]
+        return ", ".join(names[:30])
+    except Exception:  # noqa: BLE001 — 신호 없이도 판정은 진행
+        return "(조회 실패)"
+
+
 def collect_github(searches: list) -> list:
     items = []
     headers = {"User-Agent": USER_AGENT, "Accept": "application/vnd.github+json"}
@@ -199,10 +214,18 @@ def collect_github(searches: list) -> list:
             count = 0
             for repo in resp.json().get("items", []):
                 desc = repo.get("description") or ""
+                root_files = repo_root_listing(repo["full_name"], headers)
+                signals = (
+                    f"[검증 신호] 주 언어: {repo.get('language') or '(없음)'} | "
+                    f"저장소 크기: {repo.get('size', 0)}KB | "
+                    f"이슈: {repo.get('open_issues_count', 0)} | "
+                    f"포크: {repo.get('forks_count', 0)} | "
+                    f"루트 파일 목록: {root_files}"
+                )
                 items.append({
                     "title": f"{repo['full_name']} (★{repo.get('stargazers_count', 0)})",
                     "url": repo["html_url"],
-                    "summary": desc[:SUMMARY_MAX_CHARS],
+                    "summary": (desc + "\n" + signals)[:SUMMARY_MAX_CHARS],
                     # 검색 쿼리별로 다른 source_name을 부여해 interleave_by_source 라운드로빈에서
                     # 실제 레포 결과가 뉴스/블로그 소스에 밀리지 않도록 함
                     "source_name": f"GitHub Trending ({search['query'].split()[0]})",
