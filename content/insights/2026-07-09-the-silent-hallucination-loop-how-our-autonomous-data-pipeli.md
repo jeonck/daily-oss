@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["rag", "llm-hallucination", "vector-db"]
 source: "https://thenewstack.io/silent-llm-hallucination-loop/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 파이프라인에서 RAG·벡터DB 데이터 오염 패턴 — AI 에이전트 및 RAG 아키텍처 관심 분야에 해당
 - **액션:** 자율 데이터 파이프라인에 LLM 출력 검증 단계(hallucination 감지 휴리스틱 또는 cross-encoder re-ranking) 도입 방안 아티클 정독 후 체크리스트 작성
