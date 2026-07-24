@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "mcp-server", "browser-automation"]
 source: "https://news.ycombinator.com/item?id=48847834"
 source_name: "HN (show hn)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트·MCP 서버 영역에 해당하나, 오픈소스 저장소가 아닌 Frigade 상용 제품 데모임
 - **액션:** 자동 MCP 생성 개념 파악 후 유사 오픈소스(예: browser-use, stagehand) 레포와 비교 검토

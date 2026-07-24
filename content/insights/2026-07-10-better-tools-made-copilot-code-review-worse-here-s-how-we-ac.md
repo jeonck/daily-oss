@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "code-review"]
 source: "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 워크플로우 설계에 관한 실무 인사이트 — LLM/AI 에이전트 관심 분야에 해당
 - **액션:** 블로그 글 읽고 Copilot 코드 리뷰 에이전트의 툴 설계 원칙(PR evidence 중심 워크플로우) 정리
