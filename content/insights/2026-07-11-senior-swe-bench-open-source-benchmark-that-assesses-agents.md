@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm-benchmark", "swe-bench"]
 source: "https://senior-swe-bench.snorkel.ai/"
 source_name: "HN (open source)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 평가 벤치마크 — AI/LLM 관심 분야에 해당
 - **액션:** https://senior-swe-bench.snorkel.ai/ 방문해 벤치마크 방법론 및 리더보드 확인
