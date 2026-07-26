@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["backend-architecture", "async-processing", "latency"]
 source: "https://thenewstack.io/async-processing-hides-latency/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 백엔드 아키텍처 및 시스템 성능 최적화 관심 분야에 해당하는 레이턴시 기술 해설 기사
 - **액션:** 기사 원문 읽고 async 처리 패턴과 latency 은폐 기법 개념 정리

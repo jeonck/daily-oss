@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["no-code", "workflow", "ops"]
 source: "https://dev.to/nova_ai_ventures/five-no-code-ops-leaks-to-check-before-you-rebuild-a-zapier-or-airtable-workflow-31ke"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 관심 분야 '기획/협업 > 노코드-로우코드' 영역에 해당하는 일반 운영 팁 기사이나, 특정 오픈소스 저장소를 소개하지 않는 조언성 글
 - **액션:** 
