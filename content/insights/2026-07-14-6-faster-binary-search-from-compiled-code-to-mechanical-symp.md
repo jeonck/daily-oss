@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["algorithms", "performance", "low-level"]
 source: "https://pythonspeed.com/articles/branchless-binary-search/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 알고리즘 최적화·시스템 레벨 성능(기계 공감) 기술 해설 — 개발자 도구/백엔드 성능 관심 분야
 - **액션:** 기사 읽고 branchless binary search 기법 및 CPU 분기 예측 최적화 원리 파악
