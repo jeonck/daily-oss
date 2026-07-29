@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["sqlite", "database-design", "opinion"]
 source: "https://mort.coffee/home/sqlite-editions/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** SQLite의 하위 호환성 전략에 대한 기술 의견 기사로, 백엔드/데이터베이스 관심 분야에 해당하나 특정 오픈소스 프로젝트가 없는 일반 논의글
 - **액션:** 

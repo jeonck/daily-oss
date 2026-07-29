@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["github-actions", "python", "uv"]
 source: "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** GitHub Actions CI/CD에서 uvx(uv 기반 Python 도구 실행) 캐시 최적화 팁 — DevOps/CI 영역
 - **액션:** UV_EXCLUDE_NEWER 환경변수를 캐시 키에 포함하는 패턴을 자신의 GitHub Actions 워크플로우에 적용해보기

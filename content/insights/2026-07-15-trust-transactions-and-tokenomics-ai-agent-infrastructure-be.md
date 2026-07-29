@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "standardization"]
 source: "https://thenewstack.io/x402-foundation-ai-agents-standards/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 인프라 표준화 동향 — AI/LLM 관심 분야의 트렌드 해설 기사
 - **액션:** 기사 읽고 x402 프로토콜 및 AI 에이전트 거버넌스 표준화 동향 파악
