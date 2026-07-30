@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "instruction-following"]
 source: "https://thenewstack.io/ai-agents-no-laws/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트의 명령 준수 특성에 관한 기술 해설 기사로, AI/LLM 관심 분야에 해당
 - **액션:** 기사 읽고 AI 에이전트 명령 해석 패턴 파악하기

@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["devops", "deployment", "validation"]
 source: "https://thenewstack.io/solving-the-validation-problem/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** DevOps/배포 파이프라인의 검증(validation) 전략을 다루는 기술 해설 기사
 - **액션:** 기사 읽고 progressive rollout + validation 전략 개념 정리해두기
