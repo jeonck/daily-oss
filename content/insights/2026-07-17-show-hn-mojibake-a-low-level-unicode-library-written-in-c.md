@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["c-library", "unicode", "developer-tools"]
 source: "https://mojibake.zaerl.com/"
 source_name: "HN (show hn)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** C 언어 기반 저수준 유니코드 라이브러리 — 개발자 도구/언어 런타임 영역
 - **액션:** GitHub 저장소 클론 후 WASM 데모에서 normalization·confusable 등 주요 API 동작 확인

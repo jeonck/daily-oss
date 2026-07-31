@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "authentication", "llm"]
 source: "https://thenewstack.io/1password-agent-authentication-framework/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트의 인증 통합 — AI/LLM 에이전트 실무 관심 분야에 해당하는 기술 흐름
 - **액션:** 기사 읽고 1Password의 AI 에이전트 인증 프레임워크 개념 파악하기
