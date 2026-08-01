@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm-benchmark", "ai-coding", "grok-vs-claude"]
 source: "https://thenewstack.io/grok-opus-coding-tokens/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 모델 비교(Grok 4.5 vs Claude Opus) — AI 코딩 도구 관심 분야에 해당
 - **액션:** Grok 4.5 API 또는 xAI 플레이그라운드에서 코딩 태스크로 Claude Opus와 토큰 효율 직접 비교해보기
