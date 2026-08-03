@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "enterprise", "cloud"]
 source: "https://thenewstack.io/agent-platform-portability-contract/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 플랫폼 아키텍처 트렌드 — AI/LLM 관심 분야에 해당하는 기술 해설 기사
 - **액션:** 기사 읽고 Amazon Bedrock Agents, Azure AI Foundry, Google Vertex AI Agent Builder의 공통 아키텍처 패턴 정리

@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["rust", "garbage-collection", "ocaml"]
 source: "https://soteria-tools.com/blog/meta-garbage-collection"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** OCaml GC와 Rust 메모리 관리 통합을 다룬 언어/런타임 분야 기술 아티클
 - **액션:** 글 읽고 OCaml-Rust FFI 메모리 모델 개념 파악

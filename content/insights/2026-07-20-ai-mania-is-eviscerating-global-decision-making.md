@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-adoption", "enterprise", "opinion"]
 source: "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 산업 트렌드 분석 — 특정 오픈소스 저장소가 아닌 의견 기사
 - **액션:** 원문 읽고 AI 도입 의사결정 시 참고할 비판적 시각 정리
