@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["rust", "design-patterns", "code-audit"]
 source: "https://dev.to/seballiot/how-reading-a-design-patterns-book-led-me-to-audit-my-rust-framework-with-uml-and-merise-45dj"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Rust 프레임워크를 UML/Merise로 감사해 잠재 버그를 발견한 개발 방법론 기사로, 특정 오픈소스 저장소 소개보다는 코드 감사 기법 공유에 가깝다
 - **액션:** 자신의 코드베이스 일부를 UML 클래스 다이어그램으로 옮겨 보며 타입 모델 불일치 여부 확인해보기
