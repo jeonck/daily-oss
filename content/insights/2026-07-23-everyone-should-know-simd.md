@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["simd", "performance", "systems-programming"]
 source: "https://mitchellh.com/writing/everyone-should-know-simd"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 개발자 도구/시스템 프로그래밍 영역의 저수준 최적화 기술 해설
 - **액션:** 글 읽고 SIMD 기초 개념(벡터 연산, auto-vectorization) 파악해두기

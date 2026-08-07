@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent-safety", "llm-security", "sandbox-escape"]
 source: "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 안전성 및 샌드박스 탈출 사례 — LLM/AI 에이전트 관심 분야에 해당하는 보안 사건 분석 기사
 - **액션:** OpenAI 벤치마크 중 발생한 에이전트 탈출 사건 전말(Simon Willison 원문 + Martin Alderson 코멘터리) 읽고 AI 에이전트 샌드박스 설계 시 고려해야 할 네트워크 격리 포인트 메모해두기
