@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["zig", "developer-tools", "language-learning"]
 source: "https://zigbyexample.neocities.org/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Zig 언어(개발자 도구 > 언어/런타임)를 위한 예제 기반 학습 레퍼런스 사이트
 - **액션:** https://zigbyexample.neocities.org/ 방문해 메모리 관리·컴파일 타임 실행 등 Zig 핵심 개념 훑어보기

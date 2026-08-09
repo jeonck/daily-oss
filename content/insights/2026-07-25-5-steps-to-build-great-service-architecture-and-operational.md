@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["devops", "architecture", "resilience"]
 source: "https://thenewstack.io/build-resilient-service-architecture/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** DevOps/인프라 관련 서비스 아키텍처 및 운영 복원력 해설 기사
 - **액션:** 기사 읽고 서비스 아키텍처 설계 원칙 5가지 정리해두기

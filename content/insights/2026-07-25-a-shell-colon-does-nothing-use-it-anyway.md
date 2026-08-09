@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["shell", "cli", "developer-tools"]
 source: "https://refp.se/articles/your-shell-and-the-magic-colon"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 셸 스크립팅 기법 관련 개발자 도구/CLI 분야 교육 콘텐츠
 - **액션:** 글 읽고 `:` 명령어의 실제 활용 패턴(no-op, 조건부 실행, 파라미터 확장 기본값 등) 정리

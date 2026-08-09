@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["machine-learning", "technical-debt", "developer-tools"]
 source: "https://dev.to/chillipeeper1/i-built-an-ml-tool-to-catch-technical-debt-it-immediately-learned-the-wrong-lesson-3jc8"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** ML 모델의 데이터 누수·과적합 실수를 다룬 개발자 도구 주제의 학습성 블로그 회고글
 - **액션:** 
