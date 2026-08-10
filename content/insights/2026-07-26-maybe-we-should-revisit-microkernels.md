@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["systems", "os-design", "microkernel"]
 source: "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** OS 설계 철학(마이크로커널 vs 모노리식) 관련 기술 의견 글 — 특정 오픈소스 프로젝트 없음
 - **액션:** 글 읽고 현대 마이크로커널 프로젝트(seL4, Redox OS 등) 개요 파악

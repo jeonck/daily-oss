@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["mcp", "ai-agent", "llm"]
 source: "https://thenewstack.io/mcp-release-candidate-rewrite/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 관심 분야 — MCP 서버 생태계에 영향을 주는 주요 프로토콜 변경 소식
 - **액션:** MCP release candidate 변경 내용(제거된 machinery 항목) 공식 changelog 읽고 기존 MCP 서버 마이그레이션 영향 범위 파악
