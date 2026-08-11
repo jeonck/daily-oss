@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm-optimization", "model-distillation", "ai-agent"]
 source: "https://github.com/experientiallabs/world-model-optimizer"
 source_name: "HN (show hn)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 추론 최적화 및 모델 경량화 도구로 관심 분야인 AI/LLM 파인튜닝·추론 최적화에 해당
 - **액션:** github.com/experientiallabs/world-model-optimizer 레포 클론 후 README 확인 및 wmo build/optimize/serve 커맨드 흐름 파악
