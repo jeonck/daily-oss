@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-security", "open-source", "vulnerability"]
 source: "https://thenewstack.io/ai-open-source-security/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI가 오픈소스 보안 취약점 발굴 방식을 바꾸고 있다는 트렌드 해설 — AI/보안 관심 분야에 해당하나 특정 저장소 없음
 - **액션:** 기사 읽고 AI 기반 취약점 탐지 도구(예: Semgrep, CodeQL) 동향 파악
