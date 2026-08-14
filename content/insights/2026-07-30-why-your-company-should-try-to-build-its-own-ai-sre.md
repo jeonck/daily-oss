@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "devops", "sre"]
 source: "https://thenewstack.io/ai-sre-root-cause-analysis/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트·DevOps 교차 주제로 관심 분야(AI/LLM, DevOps/인프라)에 해당하는 트렌드 해설 기사
 - **액션:** 기사 읽고 AI SRE 구성 접근법(RCA 자동화, 온콜 자동화 등) 파악
