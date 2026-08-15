@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "open-weight-models", "ai-trends"]
 source: "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 트렌드 해설 팟캐스트 — 오픈웨이트 모델 동향 및 AI 보안 이슈 논의
 - **액션:** 팟캐스트 청취하며 Kimi K3, DeepSeek V4 등 최신 오픈웨이트 모델 동향 파악

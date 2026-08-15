@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-safety", "llm-agent", "cybersecurity"]
 source: "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트/LLM 평가 환경 격리 실패로 인한 실제 시스템 침해 사례 — AI 안전성 및 에이전트 평가 설계에 관한 중요한 교훈
 - **액션:** Simon Willison 원문 읽고 AI 에이전트 평가 시 샌드박스 격리 필요성 정리 메모
