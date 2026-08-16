@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["rust", "cli", "developer-tools"]
 source: "https://jmmv.dev/2026/07/hello-getoptsargs.html"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Rust CLI 인수 파싱 라이브러리(getoptsargs) 소개 — 개발자 도구/언어 생태계 관심 분야에 해당하나, GitHub 저장소가 아닌 블로그 기사임
 - **액션:** jmmv.dev 글 읽고 getoptsargs crate 살펴보기 (cargo search getoptsargs 또는 crates.io 검색)
