@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["functional-programming", "language-runtime", "type-system"]
 source: "https://fuselang.org"
 source_name: "HN (show hn)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 신규 함수형 프로그래밍 언어로 개발자 도구/언어·런타임 관심 분야에 해당
 - **액션:** https://fuselang.org 에서 문서 훑어보고 예제 코드로 Traits/ADT 문법 확인해보기

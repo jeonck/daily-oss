@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "model-selection", "developer-tools"]
 source: "https://martinalderson.com/posts/speed-vs-intelligence/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 모델 선택 기준에 대한 실무 관점의 트렌드 해설 기사
 - **액션:** 기사 읽고 속도 vs 지능 트레이드오프 관점을 현재 AI 도구 선택에 참고하기
