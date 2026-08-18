@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-security", "llm", "bug-finding"]
 source: "https://thenewstack.io/apple-ai-bug-report-caps/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI(GPT-5.5)가 실제 macOS 보안 버그를 발견한 사례 — AI 코딩/보안 연구 도구 활용 트렌드에 해당
 - **액션:** 기사 읽고 AI 기반 취약점 탐색 워크플로우 동향 파악
