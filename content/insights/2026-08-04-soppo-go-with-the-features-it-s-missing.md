@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["developer-tools", "go", "programming-language"]
 source: "https://soppolang.dev/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Go 기반 신규 언어/런타임 — 개발자 도구(언어·런타임) 관심 분야에 해당
 - **액션:** soppolang.dev에서 추가된 기능 목록 확인 후 GitHub 저장소 찾아 예제 코드 훑어보기

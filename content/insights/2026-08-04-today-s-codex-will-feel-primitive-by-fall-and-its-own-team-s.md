@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "llm", "codex"]
 source: "https://thenewstack.io/openai-codex-cloud-evolution/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구(OpenAI Codex) 발전 방향에 대한 트렌드 해설 기사
 - **액션:** 기사 읽고 Codex 로드맵 방향성 파악

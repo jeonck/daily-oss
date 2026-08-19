@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "pull-request", "developer-workflow"]
 source: "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구 및 개발 협업 워크플로우 개선에 해당하는 주제
 - **액션:** GitHub stacked pull requests 기능과 AI 에이전트 PR 분해 전략 문서 읽기
