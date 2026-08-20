@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "decision-testing"]
 source: "https://dev.to/kikashy/what-i-learned-trying-to-make-ai-agent-decisions-testable-5h6h"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 의사결정 로직의 테스트 가능성 문제를 다루는 기술 에세이 — AI/LLM 에이전트 설계 관심 분야에 해당하나 특정 오픈소스 저장소가 아닌 개념/경험 공유 글
 - **액션:** 

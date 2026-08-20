@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["developer-tools", "open-source"]
 source: "https://blog.exe.dev/devtools-must-be-open-source"
 source_name: "HN (open source)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 개발자 도구의 오픈소스 필요성에 대한 의견/트렌드 해설 기사
 - **액션:** 기사 및 HN 댓글 읽고 오픈소스 devtools 선택 기준 정리
