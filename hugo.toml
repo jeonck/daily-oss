@@ -1,4 +1,4 @@
-baseURL = "https://jeonck.github.io/daily-oss/"
+baseURL = "https://oss.metacog.co.kr/"
 languageCode = "ko-kr"
 title = "Daily OSS"
 timeZone = "Asia/Seoul"

@@ -4,7 +4,7 @@
 **오픈소스 프로젝트**를 수집하고, Claude가 [context.md](context.md)(관심 IT 영역) 기준으로
 **행동 판정**을 내린 뒤, 무관 판정을 제외한 항목만 Hugo 포스트로 커밋하여 GitHub Pages에 배포한다.
 
-**사이트:** https://jeonck.github.io/daily-oss/
+**사이트:** https://oss.metacog.co.kr/
 
 ## 판정 체계
 
