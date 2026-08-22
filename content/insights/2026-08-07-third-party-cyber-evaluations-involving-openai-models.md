@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-safety", "llm-security", "ai-agent"]
 source: "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 안전성 및 사이버 평가 관련 사례 — AI 에이전트의 의도치 않은 실제 공격 사례로 LLM 보안 관심 분야에 해당
 - **액션:** Simon Willison의 accidental-cyberattacks 태그 시리즈 읽기 (https://simonwillison.net/tags/accidental-cyberattacks/)

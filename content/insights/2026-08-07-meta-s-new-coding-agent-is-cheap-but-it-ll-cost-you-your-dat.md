@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "llm-agent", "meta"]
 source: "https://thenewstack.io/meta-muse-code/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구 분야의 새로운 에이전트 소개 기사
 - **액션:** Muse Code 공식 문서 및 데이터 정책 확인 후 GitHub Copilot/Cursor 대비 기능 비교 정리

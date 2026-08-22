@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["cli", "shell", "developer-tools"]
 source: "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 셸 사용 팁으로 개발자 도구/CLI 관심 분야에 해당
 - **액션:** 링크 글 읽고 셸 히스토리 확장(! 연산자) 활용법 정리해두기

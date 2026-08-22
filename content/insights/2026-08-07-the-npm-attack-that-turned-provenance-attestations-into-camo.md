@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["supply-chain-security", "npm", "devops"]
 source: "https://thenewstack.io/npm-supply-chain-worm-attack/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** npm 공급망 보안 사고 뉴스로, 개발자 도구/DevOps 영역의 보안 인식 관련 기사
 - **액션:** npm provenance attestation의 한계 파악: https://docs.npmjs.com/generating-provenance-statements 읽고, 현재 사용 중인 npm 패키지 중 취약 패키지 여부 `npm audit` 로 확인
