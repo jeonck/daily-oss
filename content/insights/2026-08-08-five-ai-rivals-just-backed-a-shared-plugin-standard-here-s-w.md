@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "plugin-standard", "llm"]
 source: "https://thenewstack.io/agent-plugins-open-standard/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 플러그인 표준화는 LLM/AI 에이전트 생태계 관심 분야에 해당
 - **액션:** Agent Plugins 1.0.0 스펙 문서 읽고 MCP와의 차이점 정리
