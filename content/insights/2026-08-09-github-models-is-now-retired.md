@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "github-actions", "llm-pricing"]
 source: "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 생태계 변화 — GitHub Models 서비스 종료 및 대안 전환 사례
 - **액션:** GitHub Actions에서 LLM API를 사용 중이라면 GitHub Models 의존 여부 확인 후 OpenAI/Anthropic API 키로 교체 검토
