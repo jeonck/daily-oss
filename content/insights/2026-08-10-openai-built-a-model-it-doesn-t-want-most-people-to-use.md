@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "security", "openai"]
 source: "https://thenewstack.io/openai-gpt56-cyber-daybreak/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야의 보안 특화 모델 출시 소식으로 관심 분야에 해당하나 직접 사용 가능한 오픈소스 저장소가 아님
 - **액션:** OpenAI GPT-5.6 Cyber 접근 정책 및 사용 사례 원문 기사 읽기

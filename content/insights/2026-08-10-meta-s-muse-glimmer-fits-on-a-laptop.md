@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "ai-agent", "local-inference"]
 source: "https://thenewstack.io/meta-glimmer-distillation-agents/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 에이전트 분야 — 로컬 실행 가능한 오픈웨이트 에이전트 모델
 - **액션:** Meta Muse Glimmer 공식 릴리즈 페이지 확인 후 로컬 실행 요구사항(VRAM/RAM) 및 라이선스 검토

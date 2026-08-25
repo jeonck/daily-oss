@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding-agent", "llm", "developer-tools"]
 source: "https://thenewstack.io/meta-muse-claude-code/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구 트렌드 — Meta Muse Code vs Claude Fable 5 비교 기사
 - **액션:** 기사 읽고 Meta Muse Code와 Fable 5의 성능/비용 트레이드오프 파악
