@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["linux", "packaging", "developer-tools"]
 source: "https://getfresh.dev/docs/blog/packaging-for-linux/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Linux 패키징 관련 개발자 도구/배포 실무 주제로 관심 분야 중 개발자 도구에 해당
 - **액션:** 글 읽고 AppImage·Flatpak·Snap 등 Linux 패키징 방식 비교 정리해두기

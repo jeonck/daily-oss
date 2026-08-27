@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "data-privacy", "llm"]
 source: "https://thenewstack.io/manus-meta-data-deletion/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트의 데이터 보존/삭제 이슈 — AI/LLM 관심 분야에 해당하는 트렌드 기사
 - **액션:** 기사 읽고 AI 에이전트 메모리 지속성과 소유권 변경 시 데이터 처리 정책 파악하기
