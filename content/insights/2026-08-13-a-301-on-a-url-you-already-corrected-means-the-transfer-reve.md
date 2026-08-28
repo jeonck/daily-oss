@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["link-checking", "data-correction", "web-dev"]
 source: "https://dev.to/kynth/a-301-on-a-url-you-already-corrected-means-the-transfer-reversed-delete-the-correction-dont-add-4ch6"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 301 리다이렉트 감지·보정 레이어 설계에 관한 개인 엔지니어링 블로그 포스트 — 특정 오픈소스 프로젝트가 없고, 링크 인덱스 운영 경험 공유
 - **액션:** 

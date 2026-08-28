@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["open-source-security", "ai-assisted", "github"]
 source: "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 오픈소스 프로젝트 보안 강화 사례 — AI 보조 워크플로우·GitHub 보안 도구 활용 트렌드 해설 기사
 - **액션:** 기사 읽고 AI 보조 보안 워크플로우(CodeQL, Dependabot, Copilot Autofix 등) 적용 사례 파악
