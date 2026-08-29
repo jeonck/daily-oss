@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["sqlite", "python", "developer-tools"]
 source: "https://simonwillison.net/2026/Aug/13/sqlite-utils/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** SQLite Python CLI 유틸리티 라이브러리 릴리즈 노트 — 개발자 도구/데이터베이스 영역에 해당하나, 뉴스/블로그 기사이며 4.2.1 항목이 별도 수집되어 중복
 - **액션:** 

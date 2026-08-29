@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "local-inference", "open-weights"]
 source: "https://thenewstack.io/qwen38-27b-local-inference/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야 — 로컬 추론 가능한 오픈소스 LLM 신규 공개
 - **액션:** Qwen3.8 모델 허깅페이스 페이지 확인 후 ollama run qwen3:30b-a3b 또는 llama.cpp로 로컬 추론 테스트

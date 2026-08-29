@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["devops", "log-analysis", "monitoring"]
 source: "https://goaccess.io/"
 source_name: "HN (open source)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** DevOps/모니터링·관측성 분야에 해당하는 실시간 로그 분석 오픈소스 도구
 - **액션:** https://github.com/allinurl/goaccess 클론 후 샘플 access.log로 `goaccess access.log --log-format=COMBINED -o report.html` 실행해 HTML 리포트 생성 확인
