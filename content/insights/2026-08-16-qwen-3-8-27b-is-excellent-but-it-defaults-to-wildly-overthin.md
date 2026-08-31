@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["local-llm", "qwen", "llm-inference"]
 source: "https://simonwillison.net/2026/Aug/16/qwen-38-27b/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 관심 분야 — 로컬 LLM 실행 및 추론 설정(reasoning_effort) 관련 블로그 기사
 - **액션:** LM Studio에서 Qwen 3.8 27B Q4_K_M 모델 다운로드 후 reasoning_effort를 xhigh 대신 medium/low로 설정해 응답 속도·품질 비교 테스트
