@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["mcp-server", "ai-agent", "voice-ai"]
 source: "https://thenewstack.io/elevenlabs-mcp-voice-agents/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 및 MCP 서버 통합 사례 — AI/LLM 관심 분야에 해당
 - **액션:** ElevenLabs MCP 서버 GitHub 저장소 찾아 클론 후 Claude Desktop과 연동 테스트해보기

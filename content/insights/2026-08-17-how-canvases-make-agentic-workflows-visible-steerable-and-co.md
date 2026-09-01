@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "developer-tools"]
 source: "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 워크플로우 관련 기술 해설 기사로 관심 분야 AI/LLM에 해당하나 특정 오픈소스 저장소를 제시하지 않음
 - **액션:** GitHub Copilot 캔버스 기능 관련 글 읽고 에이전트 워크플로우 가시화 전략 파악하기
