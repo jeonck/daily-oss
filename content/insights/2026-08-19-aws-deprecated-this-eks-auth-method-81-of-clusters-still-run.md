@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["kubernetes", "eks", "devops"]
 source: "https://thenewstack.io/kubernetes-fleet-security-management/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** EKS 인증 방식 deprecated 관련 Kubernetes/클라우드 네이티브 인프라 보안 트렌드 기사
 - **액션:** 기사 읽고 EKS Access Entries vs aws-auth ConfigMap 차이 파악하기

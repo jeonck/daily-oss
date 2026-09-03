@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["frontend", "canvas", "print"]
 source: "https://dev.to/bellsal_b44bf6d/your-canvas-a4-export-is-not-a4-dpi-print-size-and-the-number-nobody-checks-5akh"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 브라우저 캔버스 기반 툴 개발 시 A4 인쇄 해상도(DPI) 계산 관련 프론트엔드 기술 해설 기사
 - **액션:** 

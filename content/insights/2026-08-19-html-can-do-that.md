@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["frontend", "html", "web"]
 source: "https://chrisburnell.com/html-can-do-that/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 프론트엔드 개발 관심 분야 - HTML 기능 소개 기사
 - **액션:** 기사 읽고 잘 모르는 HTML 네이티브 기능 정리해두기
