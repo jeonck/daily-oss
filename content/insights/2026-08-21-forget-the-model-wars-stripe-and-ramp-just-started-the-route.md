@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "ai-routing", "openrouter"]
 source: "https://thenewstack.io/stripe-ramp-openrouter-router/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 라우팅 트렌드 — LLM 프레임워크·AI 인프라 관심 분야에 해당하는 해설 기사
 - **액션:** 기사 읽고 OpenRouter, Stripe/Ramp의 LLM 라우팅 전략 파악하기

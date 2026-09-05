@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "browser-tool"]
 source: "https://thenewstack.io/anthropic-browser-use-tool/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트/LLM 도구 영역 — Anthropic Claude의 브라우저 도구 동작 방식 해설 기사
 - **액션:** 기사 읽고 Browser Use 구조적 웹페이지 파싱 방식과 기존 headless 브라우저 방식 차이 파악하기

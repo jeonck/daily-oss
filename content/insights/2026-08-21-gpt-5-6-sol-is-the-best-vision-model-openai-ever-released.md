@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "vision-model", "openai"]
 source: "https://blog.roboflow.com/openai-gpt-5-6/"
 source_name: "HN (released)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야 — 최신 비전 모델 성능 동향 파악에 유용
 - **액션:** 블로그 글 읽고 GPT-5.6 Sol의 vision 벤치마크 수치와 경쟁 모델 대비 강점 정리
