@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-memory", "rag", "llm-agent"]
 source: "https://dev.to/bryanw/last-night-we-entered-a-memory-benchmark-against-tencent-and-mem0-the-score-isnt-back-yet-and-h87"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 메모리 시스템(검색/저장 엔진) 구현 경험 서술로, LLM/RAG 관심 분야에 해당하나 클론 가능한 오픈소스 저장소가 명시되지 않은 블로그 글
 - **액션:** Agent Memory Leaderboard(https://github.com/AgentMemLeaderboard 또는 공식 사이트) 확인 후 Mem0·Cognee 등 상위 오픈소스 구현체 저장소 클론해 Add/Search API 구조 비교

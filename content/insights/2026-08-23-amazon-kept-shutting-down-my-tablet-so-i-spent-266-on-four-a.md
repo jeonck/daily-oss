@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "device-hacking", "case-study"]
 source: "https://ericpardee.github.io/fire-hd-ownership/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 활용 관심 분야에 해당하는 실사용 사례이나, 클론할 오픈소스 저장소가 없는 개인 블로그 글
 - **액션:** 글 읽고 복수 AI 모델 병렬 활용 전략(모델별 강점 분산) 아이디어 메모

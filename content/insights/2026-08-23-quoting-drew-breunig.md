@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm-pricing", "model-selection", "ai-cost-optimization"]
 source: "https://simonwillison.net/2026/Aug/23/drew-breunig/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** LLM 비용 최적화와 모델 선택 전략에 관한 AI/LLM 분야 인사이트
 - **액션:** Fable vs Opus 5 vs 기타 모델 비용-성능 트레이드오프 정리하여 워크로드별 모델 라우팅 전략 검토
