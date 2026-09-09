@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "telemetry", "observability"]
 source: "https://thenewstack.io/agentic-ai-telemetry-costs/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 운영 비용과 텔레메트리 파이프라인 관련 인프라/AI 분야 해설 기사
 - **액션:** 기사 읽고 AI 에이전트 텔레메트리 비용 관리 전략 파악하기
