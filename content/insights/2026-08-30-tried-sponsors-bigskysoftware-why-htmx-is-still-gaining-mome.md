@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["htmx", "frontend", "web-framework"]
 source: "https://dev.to/power_zhong/tried-sponsorsbigskysoftware-why-htmx-is-still-gaining-momentum-3j57"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 프론트엔드 웹 프레임워크(htmx) 관련 블로그 기사로, 관심 분야 '프론트엔드/백엔드 → 웹 프레임워크'에 해당
 - **액션:** htmx 공식 레포(https://github.com/bigskysoftware/htmx) README 훑어보기
