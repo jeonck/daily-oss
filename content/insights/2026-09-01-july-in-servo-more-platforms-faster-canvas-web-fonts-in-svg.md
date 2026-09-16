@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["browser-engine", "rust", "frontend"]
 source: "https://servo.org/blog/2026/08/31/july-in-servo/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Rust 기반 웹 렌더링 엔진 Servo의 월간 진행 업데이트 — 프론트엔드/웹 기술 영역의 기술 동향 기사
 - **액션:** servo/servo 저장소 릴리즈 노트 북마크 후 플랫폼 지원 현황 파악
