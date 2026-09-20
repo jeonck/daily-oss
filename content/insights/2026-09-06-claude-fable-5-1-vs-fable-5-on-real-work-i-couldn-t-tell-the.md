@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "ai-coding", "benchmark"]
 source: "https://thenewstack.io/claude-fable-upgrade-tested/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 모델 비교 기사로 관심 분야 중 AI/LLM 영역에 해당하나 특정 오픈소스 저장소를 다루지 않음
 - **액션:** 기사 읽고 Claude Fable 5.1의 실제 코딩 벤치마크 차이점 파악해두기
