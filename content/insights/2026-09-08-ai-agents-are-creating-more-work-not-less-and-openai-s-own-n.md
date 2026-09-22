@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "productivity"]
 source: "https://thenewstack.io/openai-agent-research-bottleneck/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트의 생산성 영향에 대한 트렌드 분석 기사로, AI/LLM 관심 분야에 해당하나 특정 오픈소스 저장소를 지목하지 않음
 - **액션:** 기사 읽고 AI 에이전트 도입 효과 및 병목 현상 사례 파악하기
