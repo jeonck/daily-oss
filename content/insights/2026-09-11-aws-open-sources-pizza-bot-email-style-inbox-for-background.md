@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "aws", "llm-framework"]
 source: "https://thenewstack.io/aws-pizza-bot-agent-inbox/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 관심 분야 — 백그라운드 에이전트용 인박스 패턴 소개 기사
 - **액션:** AWS Pizza Bot GitHub 저장소(github.com/aws-samples/pizza-bot 등) 찾아 README 읽고 에이전트 인박스 아키텍처 패턴 파악
