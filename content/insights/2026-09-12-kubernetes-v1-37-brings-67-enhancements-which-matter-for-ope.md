@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["kubernetes", "devops", "infrastructure"]
 source: "https://thenewstack.io/kubecon-kubernetes-updates-security/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Kubernetes 생태계 운영자 관점의 v1.37 주요 변경사항 해설 기사
 - **액션:** Kubernetes v1.37 릴리즈 노트 및 기사 읽고 operators 관련 주요 enhancement 목록 파악
