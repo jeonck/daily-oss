@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-sdlc", "llm-agent", "developer-tools"]
 source: "https://thenewstack.io/spec-driven-sdlc-gates/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트·LLM 활용 개발 프로세스 관련 기술 트렌드 해설 기사
 - **액션:** Anthropic AI-Native SDLC Playbook 원문 읽고 에이전트 기반 개발 흐름 파악
