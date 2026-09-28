@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "inference-optimization", "ai"]
 source: "https://thenewstack.io/pg-99-conf-2026-inference-costs/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 추론 최적화 관심 분야에 해당하는 기술 해설 기사
 - **액션:** 기사 본문 읽고 inference cost 절감 기법(캐싱, 배치, 양자화 등) 메모 정리

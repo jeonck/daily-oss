@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "debugging"]
 source: "https://thenewstack.io/ai-agent-trace-debugging/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 디버깅 및 평가(evals) 관련 실무 인사이트로 LLM/AI 에이전트 관심 분야에 해당
 - **액션:** 기사 읽고 AI 에이전트 트레이싱·디버깅 접근법 메모 정리
