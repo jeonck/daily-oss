@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ui-components", "design-system", "frontend"]
 source: "https://www.neobrutalism.dev/"
 source_name: "HN (show hn)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 프론트엔드/UI 컴포넌트·디자인 시스템 관심 분야에 해당하는 네오브루탈리즘 스타일 UI 라이브러리
 - **액션:** neobrutalism.dev 방문해 Base UI 컴포넌트 및 색상 테마 예제 훑어보기
