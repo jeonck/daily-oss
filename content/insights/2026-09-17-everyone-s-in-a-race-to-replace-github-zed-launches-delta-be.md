@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "developer-tools", "code-collaboration"]
 source: "https://thenewstack.io/zed-delta-github-alternative/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 시대의 개발 워크플로우 변화와 코드 협업 도구 트렌드에 해당
 - **액션:** Zed Delta 관련 기사 읽고 AI 에이전트 기반 코드 협업 패러다임 변화 파악
