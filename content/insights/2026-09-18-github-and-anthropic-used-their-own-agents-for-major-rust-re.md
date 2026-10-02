@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "rust", "llm-agent"]
 source: "https://thenewstack.io/github-copilot-anthropic-rust-migration/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트를 활용한 대규모 Rust 마이그레이션 사례 — AI/LLM 코딩 도구 및 개발자 도구 관심 분야에 해당
 - **액션:** 기사 읽고 GitHub Copilot과 Anthropic의 Rust 마이그레이션 전략 차이점 정리
