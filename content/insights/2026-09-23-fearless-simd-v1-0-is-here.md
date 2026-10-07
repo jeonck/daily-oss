@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["rust", "simd", "developer-tools"]
 source: "https://linebender.org/blog/fearless-simd-1-0/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Rust SIMD 안전 추상화 라이브러리 v1.0 릴리즈 — 개발자 도구(언어/런타임 생태계) 범주에 해당
 - **액션:** https://github.com/linebender/fearless_simd 저장소 확인 후 README 및 예제 코드 훑어보기
