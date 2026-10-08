@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["frontend", "developer-tools", "performance"]
 source: "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 프론트엔드 렌더링 최적화(대용량 diff 처리) 기술 사례 — 개발자 도구/프론트엔드 관심 분야에 해당
 - **액션:** GitHub Copilot 앱의 대용량 PR 렌더링 접근법(가상화, 청크 로딩 등) 아티클 읽기

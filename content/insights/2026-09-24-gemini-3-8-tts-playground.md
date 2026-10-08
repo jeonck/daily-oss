@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "text-to-speech", "gemini-api"]
 source: "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야 — Google 신규 TTS 모델(gemini-3.8-flash-tts) API 활용 소개 기사
 - **액션:** Gemini TTS API 문서 확인 후 gemini-3.8-flash-tts로 다중 화자 대화 음성 생성 PoC 시도

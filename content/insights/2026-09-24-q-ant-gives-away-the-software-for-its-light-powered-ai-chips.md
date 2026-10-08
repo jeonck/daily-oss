@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-hardware", "photonic-computing", "open-source-sdk"]
 source: "https://thenewstack.io/q-ant-open-sources-cuda/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 광자 칩 기반 AI 추론 가속기 소프트웨어 오픈소스화 — AI/LLM 인프라 및 하드웨어 가속 트렌드 관심 분야에 해당
 - **액션:** Q.ANT 공식 사이트 및 GitHub에서 오픈소스 SDK 저장소 확인 후 광자 칩 프로그래밍 모델이 CUDA와 어떻게 다른지 개요 파악
