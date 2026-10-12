@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["golang", "software-architecture", "backend"]
 source: "https://iain.rocks/blog/dont-couple-your-go-code-to-github"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Go 개발 시 외부 VCS 의존성 설계에 관한 기술 아티클 — 개발자 도구/백엔드 아키텍처 관심 분야에 해당
 - **액션:** 아티클 읽고 Go 모듈/패키지 설계 시 플랫폼 중립적 구조 적용 방법 메모
