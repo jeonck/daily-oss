@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["git", "developer-tools", "release-notes"]
 source: "https://github.blog/open-source/git/highlights-from-git-2-56/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 개발자 도구 — Git 버전 업데이트 내용 파악
 - **액션:** git --version 확인 후 Git 2.56 릴리즈 노트 읽기 (https://github.blog/open-source/git/highlights-from-git-2-56/)

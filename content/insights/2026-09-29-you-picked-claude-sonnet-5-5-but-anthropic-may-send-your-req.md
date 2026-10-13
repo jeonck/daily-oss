@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["llm", "ai-safety", "anthropic"]
 source: "https://thenewstack.io/claude-sonnet-cyber-safeguards/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야 — Anthropic Claude 모델 정책 및 사이버 세이프가드 관련 기술 동향 기사
 - **액션:** Anthropic 공식 문서에서 Claude Sonnet 5.5 cyber safeguards 및 model fallback 정책 내용 확인
