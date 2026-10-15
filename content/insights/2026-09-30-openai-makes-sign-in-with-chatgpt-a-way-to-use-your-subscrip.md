@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "openai", "developer-tools"]
 source: "https://thenewstack.io/sign-in-with-chatgpt/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 생태계 동향 — OpenAI의 서드파티 개발자 도구 연동 인증 방식 발표
 - **액션:** OpenAI 'Sign in with ChatGPT' 공식 문서 읽고 MCP/에이전트 연동 가능성 파악
