@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "developer-experience", "cognitive-load"]
 source: "https://amoffat.github.io/blog/cognitive-load.html"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트/코딩 도구 분야의 인지 부하 설계 원칙에 관한 기술 글
 - **액션:** 글 읽고 AI 코드 변경 리뷰 워크플로우에 적용할 수 있는 패턴 정리
