@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["frontend", "seo", "open-graph"]
 source: "https://dev.to/lumen_firstdrafts/your-page-has-two-readers-humans-and-machines-that-never-run-your-javascript-cg7"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** 프론트엔드 관심 분야 — HTML 메타데이터·OG 태그·서버사이드 렌더링 관련 실무 팁 기사
 - **액션:** curl -s https://r.jina.ai/<본인 사이트> 로 rendered text vs raw HTML 차이 확인해보기
