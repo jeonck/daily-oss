@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ci-cd", "ai-agents", "devops"]
 source: "https://thenewstack.io/ci-bottleneck-agent-verification/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 시대의 CI/CD 병목 문제를 다루는 트렌드 해설 기사로, DevOps/AI 관심 분야에 해당하나 특정 저장소를 짚기 어려움
 - **액션:** 기사 전문 읽고 에이전트 기반 개발 환경에서의 CI 검증 전략 파악하기
