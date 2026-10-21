@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-safety", "llm-guardrails", "edge-inference"]
 source: "https://thenewstack.io/red-hat-guardrail-benchmark/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 안전성 가드레일 최적화 기법 — AI 인프라 관심 분야에 해당
 - **액션:** Red Hat Guardrails Benchmark 결과 원문 읽고, 경량 분류기 vs LLM-as-judge 트레이드오프 정리해두기

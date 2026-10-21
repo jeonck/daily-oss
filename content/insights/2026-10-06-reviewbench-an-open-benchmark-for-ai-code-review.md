@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "llm", "code-review"]
 source: "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/"
 source_name: "GitHub Blog"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코드 리뷰 에이전트 평가 벤치마크로 AI/LLM 도구 관심 분야에 해당
 - **액션:** ReviewBench 논문/블로그 읽고 코드 리뷰 에이전트 평가 방법론 파악하기
