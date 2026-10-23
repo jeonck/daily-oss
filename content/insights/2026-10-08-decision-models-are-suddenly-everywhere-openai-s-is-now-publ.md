@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "decision-model", "openai"]
 source: "https://thenewstack.io/openai-decision-models-deployment/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야 트렌드 — Decision API/모델의 등장과 확산 동향
 - **액션:** OpenAI Decisions API 공개 베타 문서 읽고 decision model 개념 및 활용 사례 파악

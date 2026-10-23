@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["rust", "email-client", "ai-integration"]
 source: "https://penguin-mail.com/"
 source_name: "HN (open source)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Rust로 구현된 오픈소스 이메일 클라이언트 — 개발자 도구 및 AI 통합 기능 포함
 - **액션:** GitHub 저장소 확인 후 (penguin-mail 검색) README와 AI 기능 구현 방식 살펴보기

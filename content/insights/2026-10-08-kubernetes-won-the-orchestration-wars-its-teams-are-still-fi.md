@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["kubernetes", "devops", "team-culture"]
 source: "https://thenewstack.io/kubernetes-teams-ai-automation/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Kubernetes 생태계 운영 조직/팀 문화에 관한 트렌드 해설 기사로 DevOps/인프라 관심 분야에 해당
 - **액션:** 기사 읽고 Kubernetes 팀 구조 및 AI 자동화 도입 사례 파악

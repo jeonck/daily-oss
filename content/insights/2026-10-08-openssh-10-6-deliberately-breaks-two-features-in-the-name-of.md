@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["openssh", "security", "infra"]
 source: "https://thenewstack.io/openssh-breaks-compression-usernames/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** DevOps/인프라 보안 관련 OpenSSH 주요 변경사항으로 시스템 관리 관심 분야에 해당
 - **액션:** OpenSSH 10.6 릴리즈 노트 확인 — 압축 변경 사항과 거부되는 사용자명 패턴 파악하기 (https://www.openssh.com/releasenotes.html)
