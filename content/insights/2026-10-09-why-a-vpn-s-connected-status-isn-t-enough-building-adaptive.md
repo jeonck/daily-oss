@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["vpn", "networking", "protocol-fallback"]
 source: "https://dev.to/colitu/why-a-vpns-connected-status-isnt-enough-building-adaptive-protocol-fallback-111e"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** DevOps/네트워킹 분야의 VPN 적응형 프로토콜 폴백 설계 기술 아티클
 - **액션:** Colitu 프로젝트의 GitHub 저장소를 직접 검색해 프로토콜 폴백 구현 코드 살펴보기
