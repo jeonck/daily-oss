@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-terminology", "open-source", "llm"]
 source: "https://thenewstack.io/open-weight-open-source-ai/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 생태계의 용어 정의 논의 — 직접 사용할 저장소는 없지만 AI 오픈소스 판단 기준에 관련
 - **액션:** 기사 읽고 open-weight vs open-source AI 구분 기준 메모해두기

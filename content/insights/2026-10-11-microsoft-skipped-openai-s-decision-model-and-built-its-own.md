@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "microsoft", "decision-model"]
 source: "https://thenewstack.io/microsoft-decision-model-foundry/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야의 트렌드 기사로, 특정 오픈소스 저장소를 짚기 어려운 기술 동향 해설
 - **액션:** 

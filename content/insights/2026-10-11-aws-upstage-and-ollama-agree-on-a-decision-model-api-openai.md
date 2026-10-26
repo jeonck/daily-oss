@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "decision-model", "api-standard"]
 source: "https://thenewstack.io/decision-models-system-one/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 분야 — 결정 모델(decision model) API 표준화 동향 기사
 - **액션:** 기사 읽고 Strands Decider 2B 및 decision-model API 스펙 파악하기

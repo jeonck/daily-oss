@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["javascript-engine", "runtime", "devlog"]
 source: "https://linus.dev/posts/kiesel-devlog-15/"
 source_name: "Lobsters"
-status: "대기"
+status: "완료"
 ---
 - **근거:** JavaScript 엔진 구현 프로젝트(Kiesel)의 릴리즈 노트로, 언어/런타임 개발 분야에 해당
 - **액션:** https://github.com/kiesel-js/kiesel 저장소 확인 후 0.4.0 변경 내역 및 구현 범위 파악
