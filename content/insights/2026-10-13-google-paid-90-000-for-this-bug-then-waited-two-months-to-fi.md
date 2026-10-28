@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["security", "rce", "bug-bounty"]
 source: "https://thenewstack.io/google-devsite-rce-bounty/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** RCE 취약점 및 보안 버그바운티 사례 — 보안/인프라 관심 분야에 해당
 - **액션:** 기사 읽고 unauthenticated RCE 버그 패턴 및 구글의 패치 타임라인 프로세스 파악

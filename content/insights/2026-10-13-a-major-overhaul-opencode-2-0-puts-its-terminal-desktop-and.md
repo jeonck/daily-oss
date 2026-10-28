@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding-tool", "developer-tools", "llm"]
 source: "https://thenewstack.io/opencode-2-shared-service/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구(터미널/데스크톱/웹 통합 개발 환경) 관련 오픈소스 프로젝트 소식
 - **액션:** OpenCode GitHub 저장소(opencode-ai/opencode) 확인 후 아키텍처 변경 내용 살펴보기
