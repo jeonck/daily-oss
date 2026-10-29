@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "memory", "llm"]
 source: "https://www.producthunt.com/products/vectorize"
 source_name: "Product Hunt - Open Source"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 메모리/경험 학습 관련 오픈소스 도구 — AI/LLM 관심 분야에 해당
 - **액션:** Hindsight/Memlake GitHub 저장소를 찾아 README 확인 후 AI 에이전트 메모리 아키텍처 파악

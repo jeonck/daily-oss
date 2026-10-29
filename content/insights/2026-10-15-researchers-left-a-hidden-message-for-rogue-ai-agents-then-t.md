@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "security", "llm"]
 source: "https://thenewstack.io/rogue-ai-agent-fleet-tencent/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 보안 연구 — LLM/AI 에이전트 동작 및 위협 탐지 관심 분야에 해당
 - **액션:** 기사 읽고 AI 에이전트의 anti-bot 우회 패턴 및 대응 방식 파악
