@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["mcp-server", "ai-agent", "llm"]
 source: "https://github.com/sepehr071/awesome-iran-mcp"
 source_name: "GitHub Trending (topic:llm)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** MCP 서버 컬렉션으로 AI/LLM 에이전트 관심 분야에 해당하나, 이란 서비스 특화라 직접 활용도는 낮음
 - **액션:** README 및 TOOLS.md 읽고 MCP 서버 구조/패턴을 참고 자료로 검토
