@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-evaluation", "llm", "inspect-ai"]
 source: "https://dev.to/agentdev9/two-eval-scorers-passed-a-wrong-answer-because-it-mentioned-the-right-one-10c7"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 평가(eval) 프레임워크의 스코어러 오탐 패턴을 분석한 기술 블로그 글로, AI 에이전트·LLM 평가 도구 관심 분야에 해당
 - **액션:** Inspect AI, promptfoo 등 eval 프레임워크 사용 시 deterministic scorer의 false-positive 패턴(정답 언급만으로 통과) 을 인지하고, 직접 BoolQ 스타일 테스트로 재현해보기
