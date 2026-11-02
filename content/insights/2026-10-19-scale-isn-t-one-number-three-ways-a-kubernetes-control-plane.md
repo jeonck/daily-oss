@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["kubernetes", "devops", "scalability"]
 source: "https://thenewstack.io/scaling-kubernetes-control-planes/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Kubernetes 컨트롤 플레인 스케일링 한계 패턴 — DevOps/인프라 관심 분야
 - **액션:** 기사 읽고 API server, etcd, scheduler 각각의 병목 유형 정리
