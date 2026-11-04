@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "voice-ai", "llm"]
 source: "https://thenewstack.io/elevenlabs-voice-agent-tradeoffs/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 분야 — 음성 AI 에이전트 플랫폼의 트레이드오프를 다룬 기술 기사
 - **액션:** 기사 읽고 관리형 음성 에이전트 vs 자체 구축 트레이드오프 파악하기

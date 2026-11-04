@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm", "productivity"]
 source: "https://dev.to/galagent/the-ten-unglamorous-tasks-my-agent-actually-handles-cf6"
 source_name: "DEV Community - showdev"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트의 실제 활용 사례를 다루는 경험 공유 글로, 특정 오픈소스 저장소를 지목하지 않는 일반 의견 기사
 - **액션:** 
