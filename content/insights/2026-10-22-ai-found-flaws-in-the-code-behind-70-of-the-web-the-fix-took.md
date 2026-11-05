@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["security", "ai", "php"]
 source: "https://thenewstack.io/ai-php2shell-disclosure-framework/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** PHP 코어 엔진 취약점 발견 및 수정 사례 — AI 활용 보안 연구 트렌드에 해당
 - **액션:** 기사 읽고 AI 기반 취약점 탐지 방법론 파악하기

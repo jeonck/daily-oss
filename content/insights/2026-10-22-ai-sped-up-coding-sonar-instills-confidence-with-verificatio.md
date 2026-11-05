@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "code-quality", "developer-tools"]
 source: "https://thenewstack.io/ai-coding-verification-loops/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구 생산성 및 코드 품질 검증 관련 개발자 도구 트렌드 기사
 - **액션:** Sonar(SonarQube/SonarCloud) 공식 문서에서 AI 코딩 검증 워크플로우 살펴보기
