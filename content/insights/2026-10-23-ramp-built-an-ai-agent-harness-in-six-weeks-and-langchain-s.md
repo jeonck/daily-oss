@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "llm-framework", "build-vs-buy"]
 source: "https://thenewstack.io/ramp-laminar-agent-harness/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 프레임워크 선택 및 자체 구축 사례 — AI/LLM 에이전트 관심 분야에 해당하는 트렌드 해설 기사
 - **액션:** 기사 읽고 자체 에이전트 harness 구축 vs 오픈소스 프레임워크 활용 트레이드오프 정리
