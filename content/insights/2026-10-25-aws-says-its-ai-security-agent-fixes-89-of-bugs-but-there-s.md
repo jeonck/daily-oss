@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-security", "code-vulnerability", "aws"]
 source: "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트 및 코드 보안 자동화 도구로 AI/LLM 관심 분야에 해당하나, 특정 오픈소스 저장소가 아닌 AWS 상용 서비스 소개 기사
 - **액션:** AWS Continuum 서비스 개요 페이지 읽고 오픈소스 대안(CodeQL, Semgrep 등)과 기능 비교 메모하기
