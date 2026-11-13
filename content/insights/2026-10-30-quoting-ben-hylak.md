@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["mcp", "ai-agent", "industry-trend"]
 source: "https://simonwillison.net/2026/Oct/29/ben-hylak/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** MCP 및 AI 에이전트 아키텍처 트렌드에 관한 업계 관찰 — 특정 저장소 없음
 - **액션:** MCP 헤드리스 아키텍처 패턴 관련 실제 구현 사례 검색 후 참고 레포 북마크

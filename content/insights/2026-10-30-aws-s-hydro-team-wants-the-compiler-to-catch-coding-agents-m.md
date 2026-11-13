@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-agent", "distributed-systems", "compiler-guardrails"]
 source: "https://thenewstack.io/ai-agents-compiler-guardrails/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 에이전트의 실수를 컴파일러로 잡으려는 분산 시스템 연구 — AI/LLM 에이전트 관심 분야에 해당
 - **액션:** Hydro 프레임워크 GitHub 저장소(hydro-project/hydroflow)를 확인하고 컴파일러 기반 정확성 검증 접근법 개념 파악
