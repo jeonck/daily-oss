@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["kubernetes", "ai-inference", "observability"]
 source: "https://thenewstack.io/ai-inference-kubernetes-observability/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** Kubernetes 환경에서 AI 추론 관측성(GPU 활용률 vs 실제 레이턴시) — DevOps/인프라 + AI 교차 주제
 - **액션:** 기사 읽고 GPU 관측성 지표(GPU utilization vs. inference latency 괴리) 개념 정리

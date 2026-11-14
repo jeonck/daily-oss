@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["on-device-llm", "android", "deepseek"]
 source: "https://github.com/jackwener/DSH-Android"
 source_name: "GitHub Trending (topic:llm)"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 추론을 Android 앱으로 실행하는 온디바이스 LLM 도구로 AI/LLM 관심 분야에 해당
 - **액션:** README 및 docs 폴더 읽어 DeepSeek 온디바이스 실행 방식과 Shizuku 통합 구조 파악
