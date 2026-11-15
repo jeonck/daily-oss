@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-llm", "datasette", "developer-tools"]
 source: "https://simonwillison.net/2026/Oct/31/datasette-llm/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI/LLM 관심 분야에 해당하는 datasette용 LLM 통합 플러그인 알파 릴리즈 소개 기사
 - **액션:** https://github.com/simonw/datasette-llm 레포 확인 후 uvx --with datasette-agent datasette <db파일> --internal internal.db 로 Datasette Agent 동작 체험
