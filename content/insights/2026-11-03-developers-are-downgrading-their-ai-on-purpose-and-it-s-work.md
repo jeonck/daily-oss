@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding", "llm", "claude-code"]
 source: "https://thenewstack.io/claude-code-developer-refusals/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구(Claude Code) 사용 행동 패턴 및 제한 정책에 관한 기사로 AI/LLM 관심 분야에 해당
 - **액션:** 기사 읽고 Claude Code 제한 정책 변화 및 개발자 대응 방식 파악
