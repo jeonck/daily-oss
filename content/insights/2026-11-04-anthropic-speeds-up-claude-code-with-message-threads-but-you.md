@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["ai-coding-tools", "claude-code", "llm"]
 source: "https://thenewstack.io/anthropic-claude-message-threads/"
 source_name: "The New Stack"
-status: "대기"
+status: "완료"
 ---
 - **근거:** AI 코딩 도구(Claude Code) 관련 기능 업데이트 — AI/LLM 관심 분야에 해당
 - **액션:** The New Stack 기사 읽고 메시지 스레드 기능이 Claude Code 세션 성능에 미치는 영향 파악하기

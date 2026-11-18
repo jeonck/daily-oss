@@ -5,7 +5,7 @@ verdict: "학습"
 tags: ["osint", "privacy", "security"]
 source: "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/"
 source_name: "Simon Willison"
-status: "대기"
+status: "완료"
 ---
 - **근거:** OSINT/프라이버시 기법 — IT 보안/인텔리전스 관심 분야에 해당하나 직접 도입할 도구는 아님
 - **액션:** 영상 시청 후 Doppler 기반 위치 추정 원리와 ADS-B 데이터 활용 방식 개념 파악
